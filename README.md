@@ -13,33 +13,6 @@ Desenvolvedor apaixonado por criar experiências digitais de alto impacto, desde
 
 ---
 
-</div>
-
-
-<p>
-  <a href="https://linkedin.com/in/ezedélio-garcia">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ezedeliogarcia@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/244925250748">
-    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github.com/Ezedelio14/images-portfolio/blob/main/portfolio.png" alt="Ezedélio Garcia Portfolio" width="100%" />
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 I'm a **Full-Stack & Mobile Developer** with **5+ years of programming experience**, focused on building modern, scalable and performance-oriented digital products.
