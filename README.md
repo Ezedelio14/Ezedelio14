@@ -55,8 +55,6 @@ Desenvolvedor apaixonado por criar experiências digitais de alto impacto, desde
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezedelio14&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" />
 
-<br><br>
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ezedelio14&theme=tokyonight)
 
 </div>
