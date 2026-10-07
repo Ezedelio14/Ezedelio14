@@ -4,7 +4,6 @@
 
 Desenvolvedor apaixonado por criar experiências digitais de alto impacto, desde aplicações mobile nativas e híbridas a ecossistemas web escaláveis integrados com Inteligência Artificial.
 
-[![Portfolio Badges](https://img.shields.io/badge/Portfolio-ezedelio--garcia.vercel.app-008080?style=for-the-badge&logo=vercel&logoColor=white)](https://ezedelio-garcia.vercel.app)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Ezedélio_Garcia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ezedélio-garcia)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/244925250748)
 [![Email Badge](https://img.shields.io/badge/Email-ezedeliogarcia%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezedeliogarcia@gmail.com)
