@@ -1,10 +1,9 @@
 <div align="center">
 
-# 👋 Hi, I'm Ezedélio Garcia
-
-### Full-Stack & Mobile Developer
-
-Building scalable web and mobile applications with **React, Next.js, React Native, Node.js and Laravel**.
+<picture >
+  <source style="border-radius: 20px" media="(min-width:650px)" srcset="https://github.com/Ezedelio14/images-portfolio/blob/main/portfolio.png">
+  <img style="border-radius: 20px" src="https://github.com/Ezedelio14/images-portfolio/blob/main/portfolio.jpeg" alt="welcome" style="width:auto;">
+</picture><br>
 
 <p>
   <a href="https://linkedin.com/in/ezedélio-garcia">
