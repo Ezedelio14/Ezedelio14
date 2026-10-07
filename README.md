@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-Full-Stack & Mobile Developer com **+5 anos de experiência** no desenvolvimento de produtos digitais modernos, escaláveis e focados em performance. Estudante de **Engenharia de Software no ISPTEC**.
+Full-Stack & Mobile Developer com **+5 anos de experiência** no desenvolvimento de produtos digitais modernos, escaláveis e focados em performance. Estudante de **Engenharia de Informatica no ISPTEC**.
 
 - 🎓 **Formação:** Engenharia de Software (ISPTEC)
 - ⚙️ **Foco Atual:** Arquitetura Web/Mobile & Integrações com IA (LLMs)
