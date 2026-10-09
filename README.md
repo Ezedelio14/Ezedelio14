@@ -11,9 +11,8 @@
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,fastify,nestjs,php,java" alt="TypeScript, React, Next.js, Node.js, Fastify, NestJS, PHP e Java" />
 </div>
 
-<h3 align="center">🤖 AI & Development Tools</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
